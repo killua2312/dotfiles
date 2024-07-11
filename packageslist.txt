@@ -35,6 +35,7 @@ pipewire-alsa 1:1.2.0-2
 pipewire-jack 1:1.2.0-2
 pipewire-pulse 1:1.2.0-2
 polybar 3.7.1-1
+redshift 1.12-12
 rofi 1.7.5-3
 sxhkd 0.6.2-3
 thunar 4.18.10-2
