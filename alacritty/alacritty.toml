@@ -1,0 +1,37 @@
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Catppuccin-Mocha.toml"
+]
+
+[font]
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
+bold = { family = "FiraCode Nerd Font", style = "Bold" }
+italic = { family = "FiraCode Nerd Font", style = "Italic" }
+bold_italic = { family = "FiraCode Nerd Font", style = "Bold Italic" }
+size = 11.0
+
+[cursor]
+style = { shape = "Block", blinking = "Always" }
+unfocused_hollow = true
+thickness = 0.07
+
+[mouse]
+hide_when_typing = true
+
+[shell]
+program = "/bin/zsh"
+
+[window]
+opacity = 0.8
+decorations = "full"
+startup_mode = "Windowed"
+title = "Alacritty"
+
+[window.padding]
+x = 25
+y = 25
+
+[scrolling]
+history = 10000
+multiplier = 6
+
+
